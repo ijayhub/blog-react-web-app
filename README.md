@@ -9,7 +9,6 @@ GITHUB CODE:
 In this project we have a display of food and it enables you to add to list of foods.
 ```
 > The homepage which contains the list of food available.
-
 > Ability to get the details of any food listed when clicked.
 > When add blog is clicked you have the ability to add your own food item.
 > You ability to delete blog you create if you don't like it
@@ -38,7 +37,7 @@ This create the react app locally
 > npm install react-bootstrap
 > npm install react-router-dom@6 
 
-#### Contributors are highly welcomed
+####Contributors are highly welcomed
 
 ```Way to contribute
  > Clone or Fork to local computer
