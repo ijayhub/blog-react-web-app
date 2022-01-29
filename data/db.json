@@ -1,0 +1,68 @@
+{
+  "blogs": [
+    {
+      "title": "Unripe plantain porridge",
+      "img": "./img/plantain.jpg",
+      "body": "Unripe plantain is a natural source of resistant starch that helps to reduce blood glucose levels, so it is considered an excellent ingredient for food fortification. ....It has been observed that unripe plantain contains antioxidant compounds that help prevent diseases and provides vitamins.Plantain Porridge is a rich meal that all plantain lovers will surely enjoy.It can be prepared with either ripe or unripe plantains or a combination of both a good meal to curb out malnutrition in children and anemia in pregnancy",
+      "author": "Ij",
+      "readMore": "https://www.healthfulwonders.com/unripe-plantain-nutrition-health-benefits-recipes-and-side-effects/ target='_blank'",
+      "id": 1
+    },
+    {
+      "title": "Beans porridge",
+      "img": "./img/beans.jpg",
+      "body": " Beans are among the most versatile and commonly eaten foods throughout the world, and many varieties are grown in the U.S. Because of their nutritional composition, these economical foods have the potential to improve the diet quality and long-term health of those who consume beans regularly. Beans porridge is a delicious mix of brown beans, onions, pepper, salt and palm oil",
+      "author": "Onyi",
+      "readMore": "https://www.ag.ndsu.edu/publications/food-nutrition/all-about-beans-nutrition-health-benefits-preparation-and-use-in-menus target='_blank'",
+      "id": 2
+    },
+    {
+      "title": "Jollof Rice",
+      "img": "./img/rice.jpg",
+      "body": "Jollof, or jollof rice, is a rice dish from West Africa. The dish is typically made with long-grain rice, tomatoes, onions, spices, vegetables and meat in a single pot, although its ingredients and preparation methods vary across different regions",
+      "author": "Blessing",
+      "readMore": "https://en.wikipedia.org/wiki/Jollof_rice target='_blank'",
+      "id": 3
+    },
+    {
+      "title": "Egusi Soup",
+      "img": "./img/egusi.jpg",
+      "body": "Egusi (also known by variations including egwusi, agusi, ohue, agushi) is the name for the protein-rich seeds of certain cucurbitaceous plants (squash, melon, gourd), which after being dried and ground are used as a major ingredient in West African cuisine.Egusi Soup is a finger-licking good Nigerian soup made with a white variety of pumpkin seeds. It is spicy, nutty with exotic African flavors!",
+      "author": "Chi-Chi",
+      "readMore": "https://www.preciouscore.com/egusi-soup/ target='_blank'",
+      "id": 4
+    },
+    {
+      "title": "Fried Yam",
+      "img": "./img/fried-yam.jpg",
+      "body": "Fried yam is a deep-fried yam recipe that can be eaten with a wide range of Nigerian stews and sauces",
+      "author": "Kenechukwu",
+      "readMore": "https://www.allnigerianrecipes.com/yam/fried-yam/ target='_blank'",
+      "id": 5
+    },
+    {
+      "title": "Abacha",
+      "img": "./img/abacha.jpg",
+      "body": "Abacha is an Eastern Nigeria dish made using dried, shredded cassava. You can eat it as a snack or a full meal. There are many variations to making this salad, but the more ingredients you add, the tastier the dish is. Whichever way you prepare or eat it, warm or cold, it will still come out delicious.",
+      "author": "Charity",
+      "readMore": "https://guardian.ng/life/how-to-make-abacha-african-salad-2/ target='_blank'",
+      "id": 6
+    },
+    {
+      "title": "Nkowbi",
+      "img": "./img/nkowbi-.png",
+      "body": " Beans are among the most versatile and commonly eaten foods throughout the world, and many varieties are grown in the U.S. Because of their nutritional composition, these economical foods have the potential to improve the diet quality and long-term health of those who consume beans regularly. Beans porridge is a delicious mix of brown beans, onions, pepper, salt and palm oil",
+      "author": "Amaka",
+      "readMore": "https://www.allnigerianrecipes.com/restaurant/nkwobi/ target='_blank'",
+      "id": 7
+    },
+    {
+      "title": "Ofada Rice",
+      "img": "./img/ofada.jpg",
+      "body": "Ofada rice is a popular Nigerian rice variety. It is also called Unpolished rice as it is rice in it’s natural state and without genetic modification. It is very healthy and much more healthier than white rice and is identified as Brown rice.",
+      "author": "Kamsi",
+      "readMore": "https://sisijemimah.com/2015/12/08/ofada-rice/ target='_blank'",
+      "id": 8
+    }
+  ]
+}
