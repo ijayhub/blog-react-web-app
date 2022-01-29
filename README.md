@@ -32,12 +32,12 @@ This create the react app locally
 
 
 ```
-####Dependencies:
+#### Dependencies:
 ```
 > npm install react-bootstrap
 > npm install react-router-dom@6 
 
-####Contributors are highly welcomed
+#### Contributors are highly welcomed
 
 ```Way to contribute
  > Clone or Fork to local computer
