@@ -1,8 +1,8 @@
 # BLOG WEB APP
 ## OVERVIEW
-LIVE LINK:reactblogcr.netlify.app
+LIVE LINK: https://reactblogcr.netlify.app
 
-GITHUB CODE:
+GITHUB CODE: https://github.com/ijayhub/blog-react-web-app
 
 **Features**
 
