@@ -36,6 +36,7 @@ This create the react app locally
 ```
 > npm install react-bootstrap
 > npm install react-router-dom@6 
+```
 
 #### Contributors are highly welcomed
 
