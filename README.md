@@ -1,6 +1,6 @@
 # BLOG WEB APP
 ## OVERVIEW
-LIVE LINK:
+LIVE LINK:reactblogcr.netlify.app
 
 GITHUB CODE:
 
