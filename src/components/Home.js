@@ -14,7 +14,7 @@ const Home = () => {
 			<div>
 				<div className='container '>
 					<div className='text-center'>
-						<h1 className='text-danger mt-5 display-3'>Nigerian Meals </h1>
+						<h1 className='text-danger mt-5 display-3'>Nigerian fooods </h1>
 						<div>
 							{error && <div>{error}</div>}
 							{isPending && <div>Loading....</div>}
