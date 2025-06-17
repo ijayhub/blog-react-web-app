@@ -11,7 +11,7 @@ In this project we have a display of food and it enables you to add to list of f
 > The homepage which contains the list of foods available.
 > Ability to get the details of any food listed when clicked.
 > When add blog is clicked you have the ability to add your own food item.
-> You ability to delete blog you create if you don't like it
+> You ability to delete blog you create if you don't like.
 
 ```
 
